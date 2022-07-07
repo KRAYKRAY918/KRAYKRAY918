@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KRAY~KRAY918
+- 👀 I’m interested in trying to build a spyware app. & private message app. 
+- 🌱 I’m currently learning API for google cloud.
+- 💞️ I’m looking to collaborate on how to build an applications for security and Spyware on a app that will allow supervision undetected by user or phone.  
+- 📫 luv2lagh69@gmail.com
